@@ -1,0 +1,7 @@
+{
+    "NEvents": 25000000,
+    "Mult": 360,
+    "MultComment": "Multiplicity times 10 to ensure one decimal of precision (bash struggles with decimals)",
+    "MultType": 1 ,
+    "MultTypeComment" : "Type 1: Poissonian, Type 2: fixed value"
+}
