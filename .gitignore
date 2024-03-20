@@ -42,3 +42,4 @@ Ouput/
 *dictContent.h
 .nfs*
 .clang-format
+.vscode
