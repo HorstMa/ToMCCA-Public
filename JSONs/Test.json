@@ -1,7 +1,11 @@
 {
-    "NEvents": 25000000,
-    "Mult": 360,
+    "mode": 1,
+    "ModeComment": "1=Default,",
+    "NEvents": 1000000,
+    "MultType": 3,
+    "MultTypeComment": "1=Poissonian, 2=Fixed, 3=Erlang, 4=ReadFromFile",
+    "Mult": 358,
     "MultComment": "Multiplicity times 10 to ensure one decimal of precision (bash struggles with decimals)",
-    "MultType": 1 ,
-    "MultTypeComment" : "Type 1: Poissonian, Type 2: fixed value"
+    "HadronizationMode": "TunedHadronization",
+    "HadronizationModeOptions": "StringFragmentation,QuarkRecombination,CorrelatedEmission,TunedHadronization"
 }

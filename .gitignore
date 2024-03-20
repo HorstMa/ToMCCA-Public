@@ -10,6 +10,7 @@
 # Precompiled Headers
 *.gch
 *.pch
+*.pcm
 
 # Compiled Dynamic libraries
 *.so
@@ -32,6 +33,12 @@
 *.app
 
 #OutputFiles
-*Jun*
 *.txt
 slurmFiles/
+temp/
+oldStuff/
+Ouput/
+*dictUmbrella.h
+*dictContent.h
+.nfs*
+.clang-format
