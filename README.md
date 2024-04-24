@@ -1,6 +1,6 @@
 # ToMCCA v1.0
 
-Thanks for chosing ToMCCA for you coalescence research. ToMCCA is a small project made to facilitate Coalescence studies using a lightweight, yet powerful framework. For further information on the coalescence model used please read https://arxiv.org/abs/2302.12696
+Thanks for chosing ToMCCA for you coalescence research. ToMCCA is a small project made to facilitate Coalescence studies using a lightweight, yet powerful framework. For further information on the coalescence model used please read https://arxiv.org/abs/2302.12696 and https://arxiv.org/abs/2404.03352.pdf. Please cite the latter when you use ToMCCA in your studies.
 
   
 
