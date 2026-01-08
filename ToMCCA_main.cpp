@@ -11,7 +11,7 @@
 #include "include/AngularCorrelations.h"
 #include "include/CalculateDistance.h"
 #include "include/DeuteronParameter.h"
-#include "include/Doenigus.h"
+//#include "include/Doenigus.h"
 #include "include/HadronizationModels.h"
 #include "include/Kinematics.h"
 #include "include/LoadSetup.h"
