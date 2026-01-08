@@ -4,7 +4,7 @@ Thanks for chosing ToMCCA for you coalescence research. ToMCCA is a small projec
 
   
 
-For now this version is very simple, but it produces stunning results already. We will work hard in the future to improve the versatility and usability of ToMCCA as well as predefine specific studies for ease of use. If you have any suggestions for features as well as bug reports, please do not hesitate to contact me under maximilian.horst@tum.de
+For now this version is very simple, but it produces stunning results already. We will work hard in the future to improve the versatility and usability of ToMCCA as well as predefine specific studies for ease of use. If you have any suggestions for features as well as bug reports, please do not hesitate to contact me under maximilian.mahlein@tum.de
 
   
 
